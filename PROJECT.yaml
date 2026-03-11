@@ -1,5 +1,6 @@
-id: d81a031a-f941-46ba-8981-240ec7cf32f0
 name: status-beacon
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/status-beacon"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [status-page, monitoring, uptime, incidents, alerts, communication, ops]
+notes: null
+id: d81a031a-f941-46ba-8981-240ec7cf32f0
