@@ -1,0 +1,16 @@
+name: status-beacon
+project_scope: main
+project_type: standalone
+description: Status page service for monitoring application health
+tier: prototype
+lane: open-source
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex"]
+repo: "https://github.com/mxn2020/status-beacon"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["status-beacon", "convex", "react", "open-source", "ai-tools"]
+notes: null
+id: null
+category: oss-tool
