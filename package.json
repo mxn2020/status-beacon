@@ -40,7 +40,7 @@
   },
   "description": "Status page service for monitoring application health",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "status",
     "beacon",
